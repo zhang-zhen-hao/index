@@ -1,0 +1,24 @@
+.bar{
+	height: 1618px;
+	width: 100%;
+	background: #fff1d7;
+}
+.bar>.img-center{
+	width: 870px;
+	height: 1618px;
+	margin: 0 auto;
+}
+.bar>.img-center>.center-font{
+	padding-top: 10px;
+	font-family: "微软雅黑";
+	font-size: 13px;
+	line-height: 18px;
+}
+.bar>.img-center>.center-font>span{
+		color: #a73630;
+	font-size: 13px;
+	font-family: "微软雅黑";
+	font-weight: 600;
+	padding-left: 7px;
+	margin-top: 14px;
+}

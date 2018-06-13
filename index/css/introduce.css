@@ -1,0 +1,11 @@
+
+.bar{
+	width: 100%;
+	height: 862px;
+	background: #fff1d7;
+}
+.bar>.bar-img{
+	width: 871px;
+	height: 862px;
+	margin: 0 auto;
+}

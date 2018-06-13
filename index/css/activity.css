@@ -1,0 +1,58 @@
+.bar{
+	width: 100%;
+background: #fff1d7;;
+}
+.box{
+	width: 871px;
+	margin: 0 auto;
+}
+.box>li{
+				width: 200px;
+				background: red;
+				text-align: center;
+				font-size: 32px;
+			}
+			.box>li>ul{
+				background: blue;
+				display: none;
+			}
+.hove{
+	width: 100%;
+	height: 110px;
+	background: #302722;
+	border-bottom: 4px solid  #af0d10;
+}
+.hove>.hove-1{
+	width: 1000px;
+	height: 110px;
+	margin: 0 auto;
+}
+.hove>.hove-1>a{
+	float: left;
+	display:block;
+	width: 249px;
+	height: 110px;
+	border-right: 1px solid #14100e;
+}
+.hove>.hove-1>a>.hove-a-1>img{
+	margin: 33px 0px 0px 8px;
+	float: left;
+}
+.hove>.hove-1>a>.hove-a-1>div{
+	margin: 38px 0px 0px 9px;float: left;
+}
+.hove>.hove-1>a>.hove-a-1>div>h3{
+	font-family: "微软雅黑";
+	font-size: 15px;
+	color: white;
+	font-weight: 100px;
+}
+.hove>.hove-1>a>.hove-a-1>div>p{
+	font-family: "微软雅黑";
+	font-size: 12px;
+	margin-top: 3px;
+	color: #a4a09e;
+}
+.hove>.hove-1>a:hover{
+	background: url(../img/首页/meal_hover_bg.png);
+}

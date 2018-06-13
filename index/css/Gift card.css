@@ -1,0 +1,144 @@
+
+.bar{
+	width: 100%;
+	height: 668px;
+	background: url(../img/礼品/present_bg.jpg);
+}
+.bar>.bar-center{
+	width: 954px;
+	height: 593px;
+	margin: 0 auto;
+	/*background: red;*/
+	padding-top: 75px;
+}
+.bar>.bar-center>.center-left{
+	width: 525px;
+	height: 529px;
+	/*background: blue;*/
+	position: relative;
+	overflow: hidden;
+	float: left;
+}
+.bar>.bar-center>.center-left>.posi{
+	position: absolute;
+	width: 445px;
+	height: 366px;
+	top: 0;
+}
+.yin{
+	position: absolute;
+	top: -10px;
+	left: -20px;
+}
+.ul-li>li{
+	position: relative;
+	padding: 11px 0px 0px 11px;
+	width: 86px;
+	height: 73px;
+	float: left;
+	background: #ba9463;
+}
+.ul-li>li>img{
+	position: absolute;
+	right: 8px;
+	bottom: 8px;
+}
+.img1{
+	display: none;
+}
+.font{
+	font-family: "微软雅黑";
+	font-weight: 400;
+	text-shadow: 1px 1px 1px #000;
+}
+.div-ul{
+	height: 108px;
+	width: 171px;
+	position: absolute;
+	right: 28px;
+	bottom: 0;
+}
+.div-ul>ul>a>li{
+	height: 21px;
+	margin-top: 6px;
+	border-left: 1px solid #744407;
+	padding-left: 8px;
+	font-size: 14px;
+	line-height: 21px;
+	color: #744407;
+	font-family: "微软雅黑";
+}
+.div-ul>ul>a>li:hover{
+	background: #744407;
+	text-align: center;
+	color: white;
+}
+.bar>.bar-center>.center-right{
+	padding-left: 50px;
+	width: 378px;
+	height: 521px;
+	float: left;
+	border-left: 1px solid #744407;
+	padding-top: 8px;
+}
+.bar>.bar-center>.center-right>h1{
+	font-size: 38px;
+	color: #744407;
+	font-family: "微软雅黑";
+	font-weight: 400;
+}
+.bar>.bar-center>.center-right>.p1{
+	margin-top: 42px;
+	color: #744407;
+	font-size: 16px;
+}
+.bar>.bar-center>.center-right>.p1>input{
+	width: 284px;
+	height: 30px;
+	border: none;
+	margin-left: 43px;
+}
+.bar>.bar-center>.center-right>.p2{
+	color: #744407;
+	font-size: 16px;
+	margin-top: 24px;
+}
+.bar>.bar-center>.center-right>.p2>input{
+	width: 284px;
+	height: 30px;
+	border: none;
+	margin-left: 12px;
+}
+.bar>.bar-center>.center-right>.p3{
+	color: #744407;
+	font-size: 16px;
+	margin-top: 24px;
+}
+.bar>.bar-center>.center-right>.p3>input{
+	width: 174px;
+	height: 30px;
+	border: none;
+	margin-left:28px;
+}
+.bar>.bar-center>.center-right>input{
+	width: 133px;
+	height: 44px;
+	background: #ba9463;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	font-size: 16px;
+	font-family: "微软雅黑";
+	font-weight:600 ;
+	margin-top: 50px;
+	cursor: pointer;
+}
+.bar>.bar-center>.center-right>input:hover{
+	color: black;
+	text-shadow: 1px 1px 1px #000;
+}
+.bar>.bar-center>.center-right>.p4{
+	font-size: 13px;
+	color: #744407;
+	margin-top: 20px;
+}
